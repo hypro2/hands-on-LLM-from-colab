@@ -1,1 +1,1 @@
-# step-by-step-multimodal
+# step-by-step
