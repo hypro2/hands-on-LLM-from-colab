@@ -20,7 +20,8 @@ colab으로 실행을 하고, 작업이 이뤄지면 추가됩니다.
 - **rwkv_colab.ipynb**: RWKV 모델을 다루는 Colab 노트북입니다.
 - **yanolja_eeve_korean_colab.ipynb**:  야놀자의 이브이 한국어 언어 모델에 대한 Colab 노트북입니다.
 - **OLMo_Bitnet_1B_colab.ipynb**: bitnet을 구현한 olmo의 1b 언어 모델에 대한 Colab노트북입니다.
-
+- **recurrentgemma_colab.ipynb**: gemma의 recurrent 2b 언어 모델에 대한 colab 노트북입니다.
+- 
 ## 멀티모달 (Multimodal)
 - **LLaVA_13b_4bit_vanilla_colab.ipynb**: LLaVA 다중 모달 모델에 대한 Colab 노트북입니다.
 - **MILVLG_imp_v1_3b_vanilla_colab.ipynb**: MILVLG 다중 모달 모델의 Colab 노트북입니다.
