@@ -30,6 +30,9 @@ colab으로 실행을 하고, 작업이 이뤄지면 추가됩니다.
 - **vikhyatk_moondream1_vanilla_colab.ipynb**: Vikhyatk의 Moondream1 모델에 대한 Colab 노트북입니다.
 - **qresearch_llama_3_vision_alpha_colab.ipynb**: qresearch의 llama3 vision alpha 모델에 대한 Colab 노트북입니다. 
 
+## 멀티모달 훈련(train_multimodal)
+-**phi2clip_QA_multimodal_train_colab.ipynb**: phi2와 clip을 VQA 멀티모달 훈련에 대한 Colab 노트북입니다.
+
 ## 시각 (Vision)
 - **animagine_xl_3_0_colab.ipynb**: 시각 분야를 다루는 Colab 노트북입니다.
 
