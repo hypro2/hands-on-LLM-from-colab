@@ -12,6 +12,7 @@ colab으로 실행을 하고, 작업이 이뤄지면 추가됩니다.
 - **bge_reranker_v2_gemma_colab.ipynb**: BGE 임베딩을 활용한 리랭커 모델의 Colab 노트북입니다.
 - **e5_mistral_embedding_colab.ipynb**: Mistral 임베딩을 다루는 Colab 노트북입니다.
 - **nomic_embed_text.ipynb**: 텍스트 임베딩에 대한 노트북입니다.
+- **nv-embed-v1_jupyter.ipynb**: nvidia의 텍스트 임베딩에 대한 노트북입니다.
 
 ## 언어 모델 (LLM)
 - **AI4Chem_ChemLLM_7B_Chat_colab.ipynb**: 화학 분야에 특화된 언어 모델에 대한 Colab 노트북입니다.
